@@ -1,0 +1,25 @@
+{
+  "name": "test-myplugin",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "com.test.myplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "suwon.jang",
+  "license": "ISC",
+  "description": "test",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkdn222/test-myplugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkdn222/test-myplugin/issues"
+  },
+  "homepage": "https://github.com/dkdn222/test-myplugin#readme"
+}
